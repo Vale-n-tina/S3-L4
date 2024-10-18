@@ -15,7 +15,20 @@ h1{
     margin: 5px;
     background-color: rgb(218, 51, 22);
     text-align: center;
+    border: 1px solid green;
+    font-size: xx-large;
 }
 main{
     margin-top: 60px;
+}
+button{
+    width: 20%;
+    height: 40px;
+    margin-top: 8%;
+    font-weight: 700;
+    border-radius: 10px;
+
+}
+.dopoclick{
+    background-color: aqua;
 }
